@@ -1,0 +1,35 @@
+.full-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #000000;
+}
+
+.background-pillar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: center no-repeat url(../../../assets/brutal.jpg_large);
+    background-size: cover;
+}
+
+.main-title {
+    position: fixed;
+    top: 45vh;
+    left: 40vw;
+    height: 10vh;
+    width: 20vw;
+    text-align: center;
+    color: rgb(238, 136, 128);
+    text-shadow: 3px 2px 2px rgb(13, 13, 13);
+    font-size: 2.3rem;
+    font-family: "Lato", sans-serif;
+}
+
+.main-title-text {
+    font-size: 2rem;
+}

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "william-newman"
+    }
+  },
+  "defaultProject": "william-newman",
+  "cli": {
+    "analytics": "aeca97b4-4b50-4c38-b28e-836d9392d891"
+  }
 }
