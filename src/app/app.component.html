@@ -1,1 +1,9 @@
-<app-background></app-background>
+<div class="nav-drop glow">
+    <div class="nav-item" *ngFor="let navItem of navItems">
+        <span class="nav-link" (click)="navigateTo(navItem)">
+            {{ navItem }}
+        </span>
+    </div>
+</div>
+
+<router-outlet></router-outlet>
