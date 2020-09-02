@@ -14,7 +14,6 @@ export class AppComponent {
 
   navigateTo(destination: string): void {
     const url = destination.toLowerCase();
-    console.log(url);
 
     this.router.navigateByUrl(url);
   }
