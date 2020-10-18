@@ -1,33 +1,19 @@
-# WilliamNewman
+# William Newman
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
-## Development server
+### Howdy 👋
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Currently working on a tabletop role playing game "helper" app that uses Angular, Java, and MongoDB plus a Discord bot with Javascript & Node.JS.
 
-## Code scaffolding
+Versed in Javascript, Java, React.JS, Angular, Typescript, Sassy CSS, HTML, Ruby, and Python.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Owner and admin for killerkuff.com, a website I built using Angular and Firebase for my stepdad to showcase his art. (The site is currently in need of creative direction and assets. pls and thanks, dad)
 
-## Build
+Some past projects include a full-feature messaging/social site, an e-commerce site, a  games & trivia site, and a medical data visualization site. Unfortunately none of these are available for host at the moment.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Currently learning Ruby on Rails and the .Net framework.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-### Hi there 👋
-
+Always looking for new projects.
 <!--
 **william-newman/william-newman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
