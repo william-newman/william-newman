@@ -5,8 +5,6 @@
 
 Currently working on a tabletop role playing game "helper" app that uses Angular, Java, and MongoDB plus a Discord bot with Javascript & Node.JS.
 
-Also working on a chat filter of sorts.
-
 Versed in Javascript, Java, React.JS, Angular, Typescript, Sassy CSS, HTML, Ruby, and Python.
 
 Owner and admin for killerkuff.com, a website I built using Angular and Firebase for my stepdad to showcase his art. (The site is currently in need of creative direction and assets. pls and thanks, dad)
