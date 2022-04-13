@@ -1,4 +1,4 @@
-# William Newman
+# William T Newman
 
 
 ### Howdy 👋
