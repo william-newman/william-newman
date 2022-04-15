@@ -3,7 +3,7 @@
 
 ### Howdy 👋
 
-Working on a tabletop role playing game "helper" app that uses Angular, Java, and MongoDB plus a Discord bot with Javascript & Node.JS.
+## Actively looking for remote work and/or work in the Denver area.
 
 Versed in Javascript, Java, React.JS, Angular, Typescript, Sassy CSS, HTML, Ruby, and Python.
 
